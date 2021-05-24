@@ -30,6 +30,7 @@ Syntax highlighted code block
 ```
 
 This is a project that linearly calculates the fibonacci sequence a certain amount of times.
+![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/prog%20fibbonaci%20ex.PNG)
 [Java Project One](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)
 
 
