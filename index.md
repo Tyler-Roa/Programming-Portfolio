@@ -34,8 +34,10 @@ This is a project that linearly calculates the fibonacci sequence a certain amou
 ![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/prog%20fibbonaci%20ex.PNG)
 
 JAVA: [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.)
+<n>
+![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
+</n>
 
 
 
