@@ -26,15 +26,15 @@ Syntax highlighted code block
 
 ### JAVA
 
-> This was a big individual project that had me create something entirely new. Given an example of adding a dimension to a game, I chose to add another dimension to 2048, the popular internet game. It's unpolished, but it works.>
+> This was a big individual project that had me create something entirely new. Given an example of adding a dimension to a game, I chose to add another dimension to 2048, the popular internet game. It's unpolished, but it works.
 [3D 2048](https://github.com/Tyler-Roa/3D-2048)
+[Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/3d%202048%20ex.png)
 
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/3d%202048%20ex.png)
-> This is a project that linearly calculates the fibonacci sequence a certain amount of times. [Fibonacci](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)>
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/prog%20fibbonaci%20ex.PNG)
+> This is a project that linearly calculates the fibonacci sequence a certain amount of times. [Fibonacci](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)
+[Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/prog%20fibbonaci%20ex.PNG)
 
-> This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.) [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)>
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
+> This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.) [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)
+[Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 
 
 
