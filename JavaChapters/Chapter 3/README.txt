@@ -1,0 +1,2 @@
+Hi! So if you'll notice, some of the interactivities that were requried of me aren't present. This is because that the book didn't actually have them.
+I did absolutley try my best, and did some extra work to make up for it too!
