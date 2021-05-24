@@ -35,7 +35,7 @@ This is a project that linearly calculates the fibonacci sequence a certain amou
 
 JAVA: [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)
 This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.)
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/paliindrome%20ex.PNG)
+![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 
 
 
