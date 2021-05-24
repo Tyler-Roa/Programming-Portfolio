@@ -37,7 +37,7 @@ JAVA: [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/
 This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.)
 <n>
 ![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
-</n>
+
 
 
 
