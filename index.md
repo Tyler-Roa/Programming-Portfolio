@@ -29,14 +29,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-JAVA: [Fibonacci](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)
-This is a project that linearly calculates the fibonacci sequence a certain amount of times.
+### JAVA: [Fibonacci](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)
 ![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/prog%20fibbonaci%20ex.PNG)
+This is a project that linearly calculates the fibonacci sequence a certain amount of times.
 
-JAVA: [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)
+
+### JAVA: [Palindrome](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Ch13/BigIntPal.java)
+![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.)
 <n>
-![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 
 
 
