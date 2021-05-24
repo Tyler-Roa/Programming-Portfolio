@@ -29,6 +29,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+This is a project that linearly calculates the fibonacci sequence a certain amount of times.
+[Java Project One](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/JavaChapters/Chapter%206/Fibbo.java)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
