@@ -38,6 +38,10 @@ Syntax highlighted code block
 > This is a project that will calculate a random number, then continually add the numbers reversed until it hits a palindrome. (a number the same backwards as forwards.) 
 ![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
 
+[Caeser Cipher](https://github.com/Tyler-Roa/Programming-Portfolio/tree/main/JavaChapters/Chapter%2011/Cypher/CeasarCipher)
+> This is a project that, given some text, will move it forward by 3. (a -> d, b -> e, etc.)
+![Example](https://github.com/Tyler-Roa/Programming-Portfolio/blob/main/images/palindrome%20ex.PNG)
+
 
 
 
